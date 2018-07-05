@@ -1,0 +1,28 @@
+Thu Sep  5 02:22:57 2002
+: EnvyMud is ready to rock on port 1234.
+Thu Sep  5 02:23:15 2002
+: (Unknown): y
+Thu Sep  5 02:23:17 2002
+: (Unknown): ngu
+Thu Sep  5 02:23:19 2002
+: Ngu: y
+Thu Sep  5 02:23:23 2002
+: Ngu: jorge
+Thu Sep  5 02:23:24 2002
+: Ngu: jorge
+Thu Sep  5 02:23:26 2002
+: Ngu: m
+Thu Sep  5 02:23:29 2002
+: Ngu: human
+Thu Sep  5 02:23:31 2002
+: Ngu: y
+Thu Sep  5 02:23:34 2002
+: Ngu: mage
+Thu Sep  5 02:23:36 2002
+: Ngu: y
+Thu Sep  5 02:23:36 2002
+: Ngu: n
+Thu Sep  5 02:23:37 2002
+: Ngu:  
+Thu Sep  5 02:23:39 2002
+: Ngu:  
